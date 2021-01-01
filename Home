@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+    <meta charset="utf-8" />
+    <title>Home</title>
+    <link rel="stylesheet" href="D:/css/style.css">
+</head>
+
+<body>
+<div class="home">
+<!--Navbar-->
+<div class="nav">
+<div><b>C!<br>CodeEm!</b>-Home</div>
+    <ul>
+        <li><a href="#">Home</a></li>
+            <li><a href="D:/html/Tentang.html">About us</a></li>
+            <li><a href="D:/html/Masukan.html">Feedback</a></li>
+            <li><a href="D:/html/page.html">Courses</a></li>
+
+    </ul>
+</div>
+</div>
+
+<div class="text-container">
+<div>
+<h1>Welcome!</h1>
+<h3>Hi!, this is <a href="D:/html/Tentang.html">Conela</a> website.</h3>
+</div>
+</div>
+
